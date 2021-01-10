@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.bdsproj,C:\КАФЕДРА\ММК+Нечеткие множества\PMMKNM.bdsproj=C:\Users\alurt\OneDrive\Documents\Borland Studio Projects\Project1.bdsproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\КАФЕДРА\ММК+Нечеткие множества\UModelGraph.pas=C:\Users\alurt\OneDrive\Documents\Borland Studio Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,C:\КАФЕДРА\ММК+Нечеткие множества\UMain.dfm=C:\Users\alurt\OneDrive\Documents\Borland Studio Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\КАФЕДРА\ММК+Нечеткие множества\UMain.pas=C:\Users\alurt\OneDrive\Documents\Borland Studio Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\КАФЕДРА\ММК+Нечеткие множества\USolutionProduction.pas=C:\КАФЕДРА\ММК+Нечеткие множества\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\КАФЕДРА\ММК+Нечеткие множества\UNLogic.pas=C:\КАФЕДРА\ММК+Нечеткие множества\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\КАФЕДРА\ММК+Нечеткие множества\UAnt.pas=C:\КАФЕДРА\ММК+Нечеткие множества\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\КАФЕДРА\ММК+Нечеткие множества\UGraphGroup.pas=C:\КАФЕДРА\ММК+Нечеткие множества\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\КАФЕДРА\ММК+Нечеткие множества\UPrimer1.pas=C:\КАФЕДРА\ММК+Нечеткие множества\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,C:\КАФЕДРА\ММК+Нечеткие множества\UPrimer1.dfm=C:\КАФЕДРА\ММК+Нечеткие множества\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\КАФЕДРА\ММК+Нечеткие множества\UModelSPPO.pas=C:\КАФЕДРА\ММК+Нечеткие множества\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
